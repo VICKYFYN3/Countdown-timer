@@ -54,13 +54,24 @@
     @media (max-width: 600px) {
        .content{
         flex-direction: column;
+
        }
        .main{
         margin-left: 20px;
         margin-top: -50px;
+        width: 92%;
        }
        .content img{
-        width: 70%;
-        height: 250px;
+        width: 90%;
+        height: 300px;
+        margin-top: 7px;
+        margin-right: -12px;
+       }
+       .text{
+        width: 90%;
+       }
+       .count div{
+        margin-bottom: 15px;
+        width: 90%;
        }
     }
