@@ -65,7 +65,9 @@
         width: 90%;
         height: 300px;
         margin-top: 7px;
-        margin-right: -12px;
+        align-items: center;
+        display: flex;
+        justify-content: center;
        }
        .text{
         width: 90%;
